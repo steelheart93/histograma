@@ -1,0 +1,2 @@
+# histograma
+Aplicativo que trata de predecir los mejores números para jugar a la lotería utilizando python.
